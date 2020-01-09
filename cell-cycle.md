@@ -20,9 +20,9 @@ Eukaryotic Cell Cycle. This diagram represents the cell cycle in eukaryotes. The
 
 Interphase of the eukaryotic cell cycle can be subdivided into the following three phases, which are represented in **Figure** [above](https://www.ck12.org/c/biology/cell-cycle/lesson/Cell-Cycle-BIO/?referrer=concept_details#x-ck12-RXVrYXJ5b3RpYy1DZWxsLUN5Y2xl):
 
-* **Growth Phase 1 \(G1\):** during this phase, the cell grows rapidly, while performing routine metabolic processes. It also makes [proteins](https://www.ck12.org/c/biology/proteins) needed for [DNA](https://www.ck12.org/c/biology/dna) replication and copies some of its [organelles](https://www.ck12.org/c/biology/organelles) in preparation for [cell division](https://www.ck12.org/c/biology/cell-division).  This phase is sometimes referred to as Gap 1.
-* **Synthesis Phase \(S\):** during this phase, the cell’s DNA is copied in the process of **DNA replication**.
-* **Growth Phase 2 \(G2\):** during this phase, the cell makes final preparations to divide. For example, it makes additional [proteins](https://www.ck12.org/c/biology/proteins) and [organelles](https://www.ck12.org/c/biology/organelles). This phase is sometimes referred to as Gap 2.
+* **Gro**wth Phase 1 \(G1\): during this phase, the cell grows rapidly, while performing routine metabolic processes. It also makes [proteins](https://www.ck12.org/c/biology/proteins) needed for [DNA](https://www.ck12.org/c/biology/dna) replication and copies some of its [organelles](https://www.ck12.org/c/biology/organelles) in preparation for [cell division](https://www.ck12.org/c/biology/cell-division).  This phase is sometimes referred to as Gap 1.
+* Synthesis Phase \(S\): during this phase, the cell’s DNA is copied in the process of DNA replication.
+* Growth Phase 2 \(G2\): during this phase, the cell makes final preparations to divide. For example, it makes additional [proteins](https://www.ck12.org/c/biology/proteins) and [organelles](https://www.ck12.org/c/biology/organelles). This phase is sometimes referred to as Gap 2.
 
 **Control of the Cell Cycle**
 

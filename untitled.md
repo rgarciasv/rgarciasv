@@ -1,10 +1,10 @@
-# Untitled
+# Economy
 
 Unit 1 – Economy in a Global World
 
-**INDEX**
+INDEX
 
-[1.     **Introduction**................................................................................................................................... …...2]()
+[1.     Introduction................................................................................................................................... …...2]()
 
 [1.1.     What is Economy?.......................................................................................................................... 2]()
 
@@ -14,7 +14,7 @@ Unit 1 – Economy in a Global World
 
 [1.4.     Economic Sectors in all the countries of the world – Economic inequalities........................................ 4]()
 
-[2.     **Globalisation – Living in a global world**................................................................................................ 6]()
+[2.     Globalisation – Living in a global world................................................................................................ 6]()
 
 [2.1.     What is Globalisation?..................................................................................................................... 6]()
 
@@ -24,7 +24,7 @@ Unit 1 – Economy in a Global World
 
 [2.4.     Geo-economic regions.................................................................................................................... 8]()
 
-[3.     **Economic Systems**............................................................................................................................... 8]()
+[3.     Economic Systems............................................................................................................................... 8]()
 
 [3.1.     The communist system.................................................................................................................... 8]()
 
@@ -34,23 +34,23 @@ Unit 1 – Economy in a Global World
 
 [3.4.     Neoliberal system........................................................................................................................... 9]()
 
-[4.     **The Labour Market**.............................................................................................................................. 9]()
+[4.     The Labour Market.............................................................................................................................. 9]()
 
 [4.1.     Active and Inactive population......................................................................................................... 9]()
 
 [4.2.     Labour Market.............................................................................................................................. 10]()
 
-### 1.1.    What is Economy?
+### 1.1. What is Economy?
 
 Economy refers to all the activities of a country related to production, distribution, trading and consumption of **goods** and **services**. The economy of a country is measured through the **GDP** \(Gross Domestic Product\).
 
-v **Goods** are materials that people consume in order to satisfy their needs. Goods are tangible and physical.
+v Goods are materials that people consume in order to satisfy their needs. Goods are tangible and physical.
 
-v **Services** are intangible products such as accounting, banking, cleaning, insurance, transportation…
+v Services are intangible products such as accounting, banking, cleaning, insurance, transportation…
 
-v **GDP** \(Gross Domestic Product\) is the total value of all the services and goods produced by a country during a specific period of time, usually a year.
+v GDP \(Gross Domestic Product\) is the total value of all the services and goods produced by a country during a specific period of time, usually a year.
 
-v **GDP per capita** is the total value of all the goods and services produced by a country in a particular year, divided by the number of people living there.
+v GDP per capita is the total value of all the goods and services produced by a country in a particular year, divided by the number of people living there.
 
 ### 1.2.    Economic sectors
 
@@ -86,11 +86,11 @@ All the economic activities are divided in three groups called sectors:
   </tbody>
 </table>### 1.3.    Evolution of the economic sectors in Spain
 
-o  Till 1850 most of the people worked in the primary sector, mainly in agriculture and livestock farming \(75%\). By the other side few people worked in the secondary and tertiary sectors. Most people were farmers and lived in rural areas.
+1 Till 1850 most of the people worked in the primary sector, mainly in agriculture and livestock farming \(75%\). By the other side few people worked in the secondary and tertiary sectors. Most people were farmers and lived in rural areas.
 
-o  During the 19th and 20th century the distribution changed considerably due to the industrial revolution and the modernisation of industry. Most of the population worked in the secondary sector \(55%\), while the primary sector needed fewer workers thanks to mechanisation \(20%\). The tertiary sector was increasing, but still not very important \(25%\). Many people moved from rural areas to the cities \(rural exodus\).
+2 During the 19th and 20th century the distribution changed considerably due to the industrial revolution and the modernisation of industry. Most of the population worked in the secondary sector \(55%\), while the primary sector needed fewer workers thanks to mechanisation \(20%\). The tertiary sector was increasing, but still not very important \(25%\). Many people moved from rural areas to the cities \(rural exodus\).
 
-o  After the oil crisis in 1975 the secondary sector started a critical period and lost many workers, in part due to the crisis and in part due to mechanisation and the use of robots \(27%\). The tertiary sector became the most important sector \(70%\), due to the improvement of living conditions people could have access to more services. The primary sector needed fewer workers thanks to the use of machines \(3%\).
+3 After the oil crisis in 1975 the secondary sector started a critical period and lost many workers, in part due to the crisis and in part due to mechanisation and the use of robots \(27%\). The tertiary sector became the most important sector \(70%\), due to the improvement of living conditions people could have access to more services. The primary sector needed fewer workers thanks to the use of machines \(3%\).
 
 <table>
   <thead>
