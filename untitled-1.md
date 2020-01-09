@@ -33,7 +33,9 @@ During mitosis, the two sister chromatids must be divided. This is a precise pro
 
 An overview of the [cell cycle](https://www.ck12.org/c/biology/cell-cycle) and mitosis: during prophase the chromosomes condense, during metaphase the chromosomes line up, during anaphase the sister chromatids are pulled to opposite sides of the cell, and during telophase the nuclear envelope forms.\[Figure3\]
 
-After telophase, each new nucleus contains the exact same number and type of chromosomes as the original cell. The cell is now ready for cytokinesis, which literally means "cell movement." During cytokinesis, the cytoplasm divides and the parent cell separates, producing two genetically identical cells, each with its own nucleus. A new [cell membrane](https://www.ck12.org/c/biology/cell-membrane) forms and in plant cells, a cell wall forms as well. Below is a representation of dividing plant cells \(**Figure** [below](https://www.ck12.org/c/life-science/mitosis/lesson/Mitosis-and-Cytokinesis-MS-LS/?referrer=concept_details#x-ck12-TVNMUy0wNS0wNS1wbGFudC1jZWxsLWRpdmlzaW9u)\). ![](.gitbook/assets/wilson1900fig2.jpg) 
+After telophase, each new nucleus contains the exact same number and type of chromosomes as the original cell. The cell is now ready for cytokinesis, which literally means "cell movement." During cytokinesis, the cytoplasm divides and the parent cell separates, producing two genetically identical cells, each with its own nucleus. A new [cell membrane](https://www.ck12.org/c/biology/cell-membrane) forms and in plant cells, a cell wall forms as well. Below is a representation of dividing plant cells \(**Figure** [below](https://www.ck12.org/c/life-science/mitosis/lesson/Mitosis-and-Cytokinesis-MS-LS/?referrer=concept_details#x-ck12-TVNMUy0wNS0wNS1wbGFudC1jZWxsLWRpdmlzaW9u)\).  
+
+![](.gitbook/assets/wilson1900fig2.jpg)
 
 ![Drawing of dividing plant cells](https://dr282zn36sxxg.cloudfront.net/datastreams/f-d%3A65208c7cf541af914338782df29a87e9a3b2940e2eeb3e6632d51455%2BIMAGE_THUMB_POSTCARD_TINY%2BIMAGE_THUMB_POSTCARD_TINY.1)
 

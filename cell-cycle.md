@@ -1,4 +1,4 @@
-# Cell Cycle prueba
+# Cell Cycle
 
 ### **What is a cell's life like?**
 
@@ -10,7 +10,7 @@ Cell division is just one of several stages that a cell goes through during its 
 
 **The Eukaryotic Cell Cycle**
 
-The diagram in **Figure** [below](https://www.ck12.org/c/biology/cell-cycle/lesson/Cell-Cycle-BIO/?referrer=concept_details#x-ck12-RXVrYXJ5b3RpYy1DZWxsLUN5Y2xl) represents the cell cycle of a eukaryotic cell. As you can see, the eukaryotic cell cycle has several phases. The **mitotic phase** \(M\) actually includes both [mitosis](https://www.ck12.org/c/biology/mitosis) and cytokinesis. This is when the [nucleus](https://www.ck12.org/c/biology/nucleus) and then the cytoplasm divide. The other three phases \(G1, S, and G2\) are generally grouped together as **interphase**. During interphase, the cell grows, performs routine life processes, and prepares to divide. These phases are discussed below. 
+The diagram in **Figure** [below](https://www.ck12.org/c/biology/cell-cycle/lesson/Cell-Cycle-BIO/?referrer=concept_details#x-ck12-RXVrYXJ5b3RpYy1DZWxsLUN5Y2xl) represents the cell cycle of a eukaryotic cell. As you can see, the eukaryotic cell cycle has several phases. The **mitotic phase** \(M\) actually includes both [mitosis](https://www.ck12.org/c/biology/mitosis) and cytokinesis. This is when the [nucleus](https://www.ck12.org/c/biology/nucleus) and then the cytoplasm divide. The other three phases \(G1, S, and G2\) are generally grouped together as **interphase**. During interphase, the cell grows, performs routine life processes, and prepares to divide. These phases are discussed below.
 
 ![Eukaryotic Cell Cycle](https://dr282zn36sxxg.cloudfront.net/datastreams/f-d%3Acc0a040c5a6012f2eb0df1c9422a25d89f12c120a9ea13e05dd58db7%2BIMAGE_THUMB_POSTCARD_TINY%2BIMAGE_THUMB_POSTCARD_TINY.1)
 
@@ -78,8 +78,6 @@ Checkpoints in the eukaryotic cell cycle ensure that the cell is ready to procee
 | **fase mitótica** | Etapa del ciclo de la célula eucariota que incluye la mitosis y la citocinesis. |
 | **tumor** | Masa anormal de células que pueden ser cancerosas. |
 | **replicación de ADN** | Proceso de copiar ADN antes de la división celular. |
-
-
 
 #### Image Attributions
 
