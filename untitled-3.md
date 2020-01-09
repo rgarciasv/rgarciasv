@@ -2,6 +2,15 @@
 
 Unit 1 – Economy in a Global World
 
+```text
+Text prior to footnote reference.[^2]
+[^2]: Comment to include in footnote.
+```
+
+{% file src=".gitbook/assets/acciona-70-castellano-part.pdf" caption="sdsdasdasdasds" %}
+
+>
+
 **INDEX**
 
 [1.]() **Introduction** …...2
@@ -305,7 +314,7 @@ The world can be divided in different regions, depending on the economic develop
 
 ## Economic Systems
 
-An **economic system** is a specific way in which a nation manages its resources, goods and services.
+\[An **economic system** is a specific way in which a nation manages its resources, goods and services.\]
 
 In this section you will learn the different economic systems that exist nowadays and what is the economic system of Spain.
 
