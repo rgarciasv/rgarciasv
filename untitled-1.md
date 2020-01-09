@@ -27,7 +27,7 @@ During mitosis, the two sister chromatids must be divided. This is a precise pro
 1. **Prophase**: The chromatin, which is unwound DNA, condenses forming [chromosomes](https://www.ck12.org/c/biology/chromosomes). The DNA becomes so tightly wound that you can see them under a microscope. The membrane around the [nucleus](https://www.ck12.org/c/biology/nucleus), called the nuclear envelope, disappears. Spindles also form and attach to chromosomes to help them move.
 2. **Metaphase**: The chromosomes line up in the center, or the equator, of the cell. The chromosomes line up in a row, one on top of the next.
 3. **Anaphase**: The two sister chromatids of each chromosome separate as the spindles pull the chromatids apart, resulting in two sets of identical chromosomes.
-4. **Telophase**: The spindle dissolves and nuclear envelopes form around the chromosomes in both [cells](https://www.ck12.org/c/biology/cells).
+4. **Telophase**: The spindle dissolves and nuclear envelopes form around the chromosomes in both cells.
 
 ![An overview of the cell cycle and mitosis](https://dr282zn36sxxg.cloudfront.net/datastreams/f-d%3A2611548d82f15409dfa0558a89cb81ae4ac2f4853857993918f39514%2BIMAGE_THUMB_POSTCARD_TINY%2BIMAGE_THUMB_POSTCARD_TINY.1)
 
@@ -89,8 +89,8 @@ Use the resource below to answer the questions that follow.
 
 #### Image Attributions
 
-1. \[Figure 1\] **Credit:** Edmund Beecher Wilson;Courtesy of Nogales group and Lawrence Berkeley National Laboratory **Source:** [http://commons.wikimedia.org/wiki/Image:Wilson1900Fig2.jpg](http://commons.wikimedia.org/wiki/Image:Wilson1900Fig2.jpg);[https://www.quora.com/Where-specifically-does-the-cell-cycle-occur](https://www.quora.com/Where-specifically-does-the-cell-cycle-occur) **License:** CC BY-NC 3.0;Public Domain
-2. \[Figure 2\] **Credit:** Magnus Manske;Edmund Beecher Wilson **Source:** [http://commons.wikimedia.org/wiki/File:Chromatin\_chromosom.png](http://commons.wikimedia.org/wiki/File:Chromatin_chromosom.png);[http://commons.wikimedia.org/wiki/Image:Wilson1900Fig2.jpg](http://commons.wikimedia.org/wiki/Image:Wilson1900Fig2.jpg) **License:** Public Domain
-3. \[Figure 3\] **Credit:** Zachary Wilson and Mariana Ruiz Villarreal \(LadyofHats\), using images by LadyofHats \(http://commons.wikimedia.org/wiki/User:LadyofHats/gallery2\);Edmund Beecher Wilson;Hana Zavadska **Source:** CK-12 Foundation;[http://commons.wikimedia.org/wiki/Image:Wilson1900Fig2.jpg](http://commons.wikimedia.org/wiki/Image:Wilson1900Fig2.jpg) **License:** CC BY-NC 3.0;Public Domain
-4. \[Figure 4\] **Credit:** Edmund Beecher Wilson;Hana Zavadska **Source:** [http://commons.wikimedia.org/wiki/Image:Wilson1900Fig2.jpg](http://commons.wikimedia.org/wiki/Image:Wilson1900Fig2.jpg);CK-12 Foundation **License:** Public Domain
+* \[Figure 1\] **Credit:** Edmund Beecher Wilson;Courtesy of Nogales group and Lawrence Berkeley National Laboratory **Source:** [http://commons.wikimedia.org/wiki/Image:Wilson1900Fig2.jpg](http://commons.wikimedia.org/wiki/Image:Wilson1900Fig2.jpg);[https://www.quora.com/Where-specifically-does-the-cell-cycle-occur](https://www.quora.com/Where-specifically-does-the-cell-cycle-occur) **License:** CC BY-NC 3.0;Public Domain
+* \[Figure 2\] **Credit:** Magnus Manske;Edmund Beecher Wilson **Source:** [http://commons.wikimedia.org/wiki/File:Chromatin\_chromosom.png](http://commons.wikimedia.org/wiki/File:Chromatin_chromosom.png);[http://commons.wikimedia.org/wiki/Image:Wilson1900Fig2.jpg](http://commons.wikimedia.org/wiki/Image:Wilson1900Fig2.jpg) **License:** Public Domain
+* \[Figure 3\] **Credit:** Zachary Wilson and Mariana Ruiz Villarreal \(LadyofHats\), using images by LadyofHats \(http://commons.wikimedia.org/wiki/User:LadyofHats/gallery2\);Edmund Beecher Wilson;Hana Zavadska **Source:** CK-12 Foundation;[http://commons.wikimedia.org/wiki/Image:Wilson1900Fig2.jpg](http://commons.wikimedia.org/wiki/Image:Wilson1900Fig2.jpg) **License:** CC BY-NC 3.0;Public Domain
+* \[Figure 4\] **Credit:** Edmund Beecher Wilson;Hana Zavadska **Source:** [http://commons.wikimedia.org/wiki/Image:Wilson1900Fig2.jpg](http://commons.wikimedia.org/wiki/Image:Wilson1900Fig2.jpg);CK-12 Foundation **License:** Public Domain
 
