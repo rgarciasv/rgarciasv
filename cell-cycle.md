@@ -2,7 +2,7 @@
 
 ### **What is a cell's life like?**
 
-The eukaryotic cell spends most of its "life" in interphase of the cell cycle, which can be subdivided into the three phases, G1, S and G2. During interphase, the cell does what it is supposed to do. Though [cells](https://www.ck12.org/c/biology/cells) have many common functions, such as [DNA](https://www.ck12.org/c/biology/dna) replication, they also have certain specific functions. That is, during the life of a [heart](https://www.ck12.org/c/biology/heart) cell, the cell would obviously perform certain different activities than a kidney cell or a liver cell.
+sasas ass The eukaryotic cell spends most of its "life" in interphase of the cell cycle, which can be subdivided into the three phases, G1, S and G2. During interphase, the cell does what it is supposed to do. Though [cells](https://www.ck12.org/c/biology/cells) have many common functions, such as [DNA](https://www.ck12.org/c/biology/dna) replication, they also have certain specific functions. That is, during the life of a [heart](https://www.ck12.org/c/biology/heart) cell, the cell would obviously perform certain different activities than a kidney cell or a liver cell.
 
 ## The Cell Cycle
 
