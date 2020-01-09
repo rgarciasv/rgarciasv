@@ -6,7 +6,7 @@
 
             El poder de resolución del ojo humano, es decir, su capacidad para distinguir entre dos objetos puntuales que se encuentran muy próximos, es de alrededor de 0,2 mm en el mejor de los casos. Debido a ello, una parte muy sustancial de la gran diversidad de seres vivos que constituyen nuestra biosfera escapó a la observación humana hasta épocas muy recientes: se trata del grupo de seres vivos que hoy denominamos microorganismos.
 
-![](http://www.bionova.org.es/biocast/documentos/figura/figtem20/figurat2001.jpg)
+![https://es.wikipedia.org/wiki/Anton\_van\_Leeuwenhoek\#/media/Archivo:Jan\_Verkolje\_-\_Antonie\_van\_Leeuwenhoek.jpg](.gitbook/assets/jan_verkolje_-_antonie_van_leeuwenhoek.jpg)
 
             Los microorganismos constituyen un grupo de seres vivos sumamente heterogéneo cuya única característica común es su reducido tamaño: todos son lo suficientemente pequeños como para pasar inadvertidos al ojo humano, siendo preciso el uso de dispositivos de aumento como el microscopio óptico o, en algunos casos, el microscopio electrónico para poder observarlos. La gran mayoría de los microorganismos son unicelulares, aunque una parte significativa de ellos tienen organización subcelular y unos pocos forman agrupaciones de células de tipo colonial sin llegar a constituir verdaderos organismos pluricelulares.
 
