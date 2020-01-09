@@ -380,6 +380,6 @@ In this labour market there are three **agents** that interact among them, they 
 
 There are still many problems that shall be confronted by the trade unions and the workers themselves, such as **unemployment**, **child labour**, **workers exploitation** and **discrimination against women**.
 
-========ooo000ooo========
+
 
 1. 
