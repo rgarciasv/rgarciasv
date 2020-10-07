@@ -5,13 +5,17 @@
 
 1. Scooter Registration
 
-En este primera fase, se procederá a coordinar todos los pasos para que las motos cumplan con la normativa y puedan ser puestas en la calle en la mayor brevedad.  
+En este primera fase, se procederá a coordinar todos los pasos para que las motos cumplan con la normativa y puedan ser puestas en la calle en la mayor brevedad.
 
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
+| Column 1 | Column 2 | Column 3 | Column 4 |
+| -------- | -------- | -------- | -------- |
+| Text     | Text     | Text     | Text     |
+| Text     | Text     | Text     | Text     |
+| Text     | Text     | Text     | Text     |
+| Text     | Text     | esto es una prueba    | Text     |
+| Text     | Text     | Text     | Text     |
+| Text     | Text     | Text     | aqui también metemos un poco de texto    |
+| Text     | Text     | Text     | Text     |
 
 ![](.gitbook/assets/transporter-bl.png)
 
@@ -210,3 +214,65 @@ El departamento que va a estar en contacto con el usuario y que se encargará de
 * Recepción llamadas de policía por incidencias o accidents
 * Recepción llamadas de usuarios por incidencias
 
+# 1.2 What Is Science? | CK-12 Foundation
+
+[https://www.ck12.org/book/ck-12-human-biology/section/1.2/](https://www.ck12.org/book/ck-12-human-biology/section/1.2/)
+
+[1%202%20What%20Is%20Science%20CK-12%20Foundation%20716fc0d4f5224298808683e00217469c/f-d3A43d0b06041f0b47ff95e23741ca4c4351b824b1b180113673dc6f1fb2BIMAGE_THUMB_POSTCARD_TINY2BIMAGE_THUMB_POSTCARD_TINY.1](1%202%20What%20Is%20Science%20CK-12%20Foundation%20716fc0d4f5224298808683e00217469c/f-d3A43d0b06041f0b47ff95e23741ca4c4351b824b1b180113673dc6f1fb2BIMAGE_THUMB_POSTCARD_TINY2BIMAGE_THUMB_POSTCARD_TINY.1)
+
+### **Ouch!**
+
+This young man is getting a flu vaccine. You probably know that getting a vaccine can hurt — but it's usually worth it. A vaccine contains dead or altered forms of germs that normally cause a disease, such as flu or measles. The germs in vaccines have been inactivated or weakened so they can no longer cause illness, but are still "noticed" by the immune system. They stimulate the immune system to produce chemicals that can kill the *actual* germs if they enter the body, thus preventing future disease. How was such an ingenious way to prevent disease discovered? The short answer is more than two centuries of science.
+
+### **Science as Process**
+
+You may think of science as a large and detailed body of knowledge, but science is also the process by which this knowledge is obtained. Science uses experimentation, evidence, and logic to continuously test ideas. Over time and through repeated experimentation and testing, scientific knowledge advances.
+
+We've been accumulating knowledge of vaccines for more than two centuries. The discovery of the first vaccine, as well as the process of vaccination, dates back to 1796. An English doctor named Edward Jenner observed that people who became infected with cowpox did not get sick from smallpox, a similar but much more severe disease (see the child with smallpox in the photo [below](https://www.ck12.org/book/ck-12-human-biology/section/1.2/)). Jenner decided to transmit cowpox to a young boy to see if it would protect him from smallpox. He gave the boy cowpox by scratching [liquid](https://www.ck12.org/c/physical-science/liquid?referrer=crossref) from cowpox sores into the boy's skin. Then, six weeks later, he scratched [liquid](https://www.ck12.org/c/physical-science/liquid?referrer=crossref) from smallpox sores into the boy's skin. As Jenner predicted, the boy did not get sick from smallpox. Jenner had discovered the first vaccine, although additional testing was needed to show that it really was effective.
+
+[1%202%20What%20Is%20Science%20CK-12%20Foundation%20716fc0d4f5224298808683e00217469c/f-d3A2402c03a4f105202fe86bab29343909c1710586211137cbf70b60f032BIMAGE_THUMB_POSTCARD_TINY2BIMAGE_THUMB_POSTCARD_TINY.1](1%202%20What%20Is%20Science%20CK-12%20Foundation%20716fc0d4f5224298808683e00217469c/f-d3A2402c03a4f105202fe86bab29343909c1710586211137cbf70b60f032BIMAGE_THUMB_POSTCARD_TINY2BIMAGE_THUMB_POSTCARD_TINY.1)
+
+A young child in Bangladesh is covered with skin lesions from smallpox. Until it was eradicated, this highly contagious infection caused many deaths, and those that survived were often severely scarred for life.
+
+Almost a century passed before the next vaccine was discovered, a vaccine for cholera in 1879. Around the same time, French chemist Louis Pasteur found evidence that many human diseases are caused by germs, which earned him the title of "father of germ theory." Since Pasteur's time, vaccines have been discovered for scores of additional diseases caused by germs, and scientists are currently researching vaccines for many others.
+
+### **Benefits of Science**
+
+Medical advances such as the discovery of vaccines are one of the most important benefits of science, but science and scientific knowledge are also crucial for most other human endeavors. Science is needed to design safe cars, predict storms, control [global warming](https://www.ck12.org/c/earth-science/global-warming?referrer=crossref), develop new technologies of many kinds, help couples have children, and put a man on the moon. Clearly, the diversity of applications of scientific knowledge is vast!
+
+### **Summary**
+
+- 
+
+    Science is a large and detailed body of knowledge. It is also the process by which this knowledge is obtained.
+
+- 
+
+==Science uses experimentation, evidence, and logic to continuously test ideas. Over time and through repeated experimentation and testing, scientific knowledge advances.==
+
+- Medical advances such as the [development](https://www.ck12.org/c/biology/development?referrer=crossref) of vaccines are one of the most important benefits of science, but science and scientific knowledge are also crucial for most other human endeavors.
+
+### **Review**
+
+:::info
+Explain why science is considered both a process and a body of knowledge*
+:::
+
+2. State three specific examples of human endeavors that are based on scientific knowledge.
+
+3. Jenner used a young boy as a [research](https://www.ck12.org/c/chemistry/research?referrer=crossref) subject in his smallpox vaccine research. Today, scientists must follow strict guidelines when using human subjects in their research. What unique concerns do you think might arise when human beings are used as research subjects?
+
+4. What gave Jenner the idea to develop a vaccine for smallpox?
+
+5. Why do you think almost a century passed between the [development](https://www.ck12.org/c/biology/development?referrer=crossref) of the first vaccine (for smallpox) and the development of the next vaccine (for cholera)?
+
+6. How does science influence your daily life?
+
+### **Explore More**
+
+> [Watch this eye-opening TED talk to learn why truly innovative science demands a leap into the unknown. The inspiring speaker explains how improv theater helped him find joy instead of fear in the unknown and how to use creativity in the scientific process.]
+
+- [ ] Check out this video to learn more about the smallpox vaccine:
+
+
+> 
