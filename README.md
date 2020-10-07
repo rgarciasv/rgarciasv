@@ -1,10 +1,17 @@
 # Untitled
 
 ## **Set Up Moto**  
+### jerarquía 3
 
 1. Scooter Registration
 
 En este primera fase, se procederá a coordinar todos los pasos para que las motos cumplan con la normativa y puedan ser puestas en la calle en la mayor brevedad.  
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
 
 ![](.gitbook/assets/transporter-bl.png)
 
