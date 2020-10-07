@@ -255,7 +255,7 @@ Medical advances such as the discovery of vaccines are one of the most important
 ### **Review**
 
 :::info
-Explain why science is considered both a process and a body of knowledge*
+Explain why science is considered both a process and a body of knowledge
 :::
 
 2. State three specific examples of human endeavors that are based on scientific knowledge.
